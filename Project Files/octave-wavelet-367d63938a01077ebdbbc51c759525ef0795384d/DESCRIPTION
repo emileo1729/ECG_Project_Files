@@ -1,0 +1,10 @@
+Name: wavelet
+Version: 0.1.0
+Date: 2013-04-04
+Author: Lukas Reichlin <lukas.reichlin@gmail.com>
+Maintainer: Lukas Reichlin <lukas.reichlin@gmail.com>
+Title: Wavelet
+Description: Wavelet package for GNU Octave
+Autoload: yes
+License: GPLv3+
+Url: http://octave.sf.net
